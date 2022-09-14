@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubham-Rathod10
 - 👀 I’m interested in Computer Vision, Image Processing, Deep Learning, Machine Learning, Web Development
-- 🌱 I’m currently learning Signal Processing and Machine Learning in Indian Institute of Technology, Guwahati.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’have completed masters in `Signal Processing and Machine Learning` in Indian Institute of Technology, Guwahati.
+- 💞️ I’m looking to collaborate on Web Development (backend-flask, redis, mongoDB)
 - 📫 How to reach me my email id is => shubham.datasci@gmail.com
 
 <!---
