@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Shubham-Rathod10
-- 👀 I’m interested in Computer Vision, Image Processing, Deep Learning, Machine Learning, Web Development
+- 👋 Hi, I’m @Shubham-Rathod10, Professional Software Engineer..
+- 👀 I’m interested in Backend Web Development, Computer Vision, AI, ML, DL
 - 🌱 I’have completed masters in `Signal Processing and Machine Learning` in Indian Institute of Technology, Guwahati.
 - 💞️ I’m looking to collaborate on Web Development (backend-flask, redis, mongoDB)
 - 📫 How to reach me my email id is => shubham.datasci@gmail.com
